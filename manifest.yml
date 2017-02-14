@@ -1,7 +1,7 @@
 applications:
 - name: cf-spring-mvc-demo
   memory: 512M
-  instance: 2
+  instance: 1
   host: cf-spring-mvc-demo-saadia
   domain: cfapps.io
   buildpack: java_buildpack 
